@@ -1,4 +1,4 @@
 # Iffath-Demo
 This is my First Git Repository
 <br>
-Author - Iffath Shaziya
+Author - Iffath Shaziya (Syeda Shaziya)
